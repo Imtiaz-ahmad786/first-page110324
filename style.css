@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .wrapper {
-  @apply w-full flex justify-center items-center flex-col;
+  @apply flex w-full flex-col items-center justify-center;
 }
 .contain {
   @apply w-[94%] lg:w-[1020px] xl:w-[1440px];
@@ -15,9 +15,12 @@ body {
   background-image: url("../images/background.png");
 }
 .heading {
-  @apply text-[40px] font-bold xl:text-[50px] 
-    leading-[50px] my-2 xl:my-6 text-center md:text-left;
+  @apply my-2 text-center text-[40px] 
+    font-bold leading-[50px] md:text-left xl:my-6 xl:text-[50px];
 }
 .subHeading {
-  @apply text-[35px] lg:text-[38px] font-bold text-black;
+  @apply text-[35px] font-bold text-black lg:text-[38px];
+}
+.dummy {
+  width: 100px;
 }
