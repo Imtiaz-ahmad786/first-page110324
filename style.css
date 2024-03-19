@@ -21,6 +21,3 @@ body {
 .subHeading {
   @apply text-[35px] font-bold text-black lg:text-[38px];
 }
-.dummy {
-  width: 100px;
-}
