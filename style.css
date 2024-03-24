@@ -21,3 +21,12 @@ body {
 .subHeading {
   @apply text-[35px] font-bold text-black lg:text-[38px];
 }
+.img-1-bgc {
+  background-image: url("../first-page-twitter-clone/img/sec-3-img-1.jpg");
+}
+.img-2-bgc {
+  background-image: url("../first-page-twitter-clone/img/sec-3-img-2.jpg");
+}
+.img-3-bgc {
+  background-image: url("../first-page-twitter-clone/img/sec-3-img-3.jpg");
+}
