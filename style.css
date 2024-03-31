@@ -9,7 +9,7 @@
   @apply w-full bg-[#000];
 }
 .contain {
-  @apply w-[98%] lg:w-[1020px] xl:w-[1320px];
+  @apply w-[98%]  xl:w-[1320px];
 }
 .contain-2 {
   @apply w-[96%] lg:w-[980px] xl:w-[1120px];
