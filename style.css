@@ -21,6 +21,23 @@
     rgba(48, 103, 255, 0) 100%
   );
 }
+.sec-3 {
+  background: url(../img/home1/solution-bg.png),
+    linear-gradient(180deg, #edf1fc 0%, rgba(201, 215, 255, 0.13) 100%);
+}
+.img-url-1 {
+  background: url(img/portfolio-img-01.jpg);
+}
+
+.img-url-2 {
+  background: url(img/portfolio-img-06.jpg);
+}
+.img-url-3 {
+  background: url(img/portfolio-img-04.jpg);
+}
+/* .star-icon {
+  @apply start-icon mb-[15px] flex h-[34px] w-[223px] items-center justify-between rounded-md bg-[#eee] px-1 px-[10px] py-[5px];
+} */
 .bgc-nav {
   background: rgba(var(--primary-color1-opc), 0.05);
 }
