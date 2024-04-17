@@ -53,6 +53,21 @@ body {
 .bgImg {
   background-image: url("../images/background.png");
 }
+.bbb{
+  border-bottom :  1px solid rgb(205, 203, 203);
+
+}
+
+.input-1{
+  
+  border: none;
+}
+
+:hover.input-1{
+  cursor: pointer;
+  border: 0.5px solid blue;
+}
+
 
 :root {
   --font-hankenGrotesk: "Hanken Grotesk", sans-serif;
