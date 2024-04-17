@@ -35,13 +35,11 @@
 .img-url-3 {
   background: url(img/portfolio-img-04.jpg);
 }
- .card-img-url{
+.card-img-url {
   background: url(img/sec-6-1.jpg);
   width: 100%;
   height: auto;
- 
-  
-} 
+}
 /* .star-icon {
   @apply start-icon mb-[15px] flex h-[34px] w-[223px] items-center justify-between rounded-md bg-[#eee] px-1 px-[10px] py-[5px];
 } */
