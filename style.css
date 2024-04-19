@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+
+  }
+
 .wrapper {
   @apply flex w-full flex-col  items-center justify-center;
 }
@@ -67,7 +72,9 @@ body {
   cursor: pointer;
   border: 0.5px solid blue;
 }
-
+.sss{
+  border-top:  1px solid rgb(205, 203, 203);
+}
 
 :root {
   --font-hankenGrotesk: "Hanken Grotesk", sans-serif;
